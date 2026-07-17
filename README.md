@@ -29,10 +29,10 @@ An AI-powered Image Generation app built using **Streamlit** and **Pollinations 
 ---
 ## 📹 Demo Video
 
-** Demo Video Link
-CLICK ON THIS LINK:**
+ Demo Video Link
+CLICK ON THIS LINK:
 
-> ****
+> **https://youtu.be/MVtIw-ns8JA?si=xmyJpSALkmUal-V-**
 
 ---
 ## 📦 Installation
