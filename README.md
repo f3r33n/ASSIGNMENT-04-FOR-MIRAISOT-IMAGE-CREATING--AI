@@ -36,9 +36,9 @@ CLICK ON THIS LINK:
 
 
 ## Pictures
+<img width="1870" height="995" alt="Screenshot from 2026-07-17 15-58-56" src="https://github.com/user-attachments/assets/8489c299-d524-4876-bf7c-8da42eb467bf" />
 <img width="1872" height="989" alt="Screenshot from 2026-07-17 16-00-24" src="https://github.com/user-attachments/assets/1148f54b-ae04-419a-9f84-801803265f19" />
 <img width="1876" height="995" alt="Screenshot from 2026-07-17 15-59-53" src="https://github.com/user-attachments/assets/c7a52700-8ee3-417f-aca1-9de7f2841e59" />
-<img width="1870" height="995" alt="Screenshot from 2026-07-17 15-58-56" src="https://github.com/user-attachments/assets/8489c299-d524-4876-bf7c-8da42eb467bf" />
 
 ---
 ## 📦 Installation
