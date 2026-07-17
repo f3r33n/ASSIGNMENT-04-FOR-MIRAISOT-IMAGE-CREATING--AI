@@ -1,4 +1,12 @@
-# 🎨 AI Image Studio
+
+## 👨‍💻 Internship
+
+**MirAI School of Technology**  
+**Virtual Summer Internship 2026**  
+**AI Builder Track**  
+**Assignment 4 – Upgrading the AI Image Studio**
+
+                                                                             # 🎨 AI Image Studio
 
 An AI-powered Image Generation app built using **Streamlit** and **Pollinations AI** as part of the **MirAI School of Technology – Virtual Summer Internship 2026 (AI Builder Track)**.
 
@@ -77,12 +85,6 @@ streamlit run app.py
 
 
 
-## 👨‍💻 Internship
-
-**MirAI School of Technology**  
-**Virtual Summer Internship 2026**  
-**AI Builder Track**  
-**Assignment 4 – Upgrading the AI Image Studio**
 
 ---
 
