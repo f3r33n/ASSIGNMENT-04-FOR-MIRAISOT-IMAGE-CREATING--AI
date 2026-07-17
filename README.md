@@ -27,7 +27,14 @@ An AI-powered Image Generation app built using **Streamlit** and **Pollinations 
 - Pollinations AI
 
 ---
+## 📹 Demo Video
 
+** Demo Video Link
+CLICK ON THIS LINK:**
+
+> ****
+
+---
 ## 📦 Installation
 
 Clone the repository:
@@ -62,13 +69,7 @@ streamlit run app.py
 
 ---
 
-## 📹 Demo Video
 
-**LinkedIn / Demo Video:**
-
-> **Add your video link here**
-
----
 
 ## 👨‍💻 Internship
 
